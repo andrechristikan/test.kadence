@@ -9,11 +9,11 @@ function getData(){
     "pekerjaan": "3"
   },
   {
-    "Nama": "test",
+    "Nama": "Rahmat",
     "Kota": "1",
     "jenis_kelamin": "2",
     "pendidikan": "5",
-    "pekerjaan": "1"
+    "pekerjaan": "4"
   },
   {
     "Nama": "Kartika Sari",
@@ -37,25 +37,25 @@ function getData(){
     "pekerjaan": "5"
   },
   {
-    "Nama": "Lasi",
+    "Nama": "Rusdi Maryadi",
     "Kota": "3",
-    "jenis_kelamin": "2",
+    "jenis_kelamin": "1",
     "pendidikan": "4",
-    "pekerjaan": "1"
+    "pekerjaan": "3"
   },
   {
-    "Nama": "yuyun",
+    "Nama": "Rudy",
     "Kota": "3",
-    "jenis_kelamin": "2",
+    "jenis_kelamin": "1",
     "pendidikan": "4",
-    "pekerjaan": "1"
+    "pekerjaan": "4"
   },
   {
     "Nama": "rahayu",
     "Kota": "3",
     "jenis_kelamin": "2",
-    "pendidikan": "4",
-    "pekerjaan": "1"
+    "pendidikan": "5",
+    "pekerjaan": "3"
   },
   {
     "Nama": "tes",
@@ -72,9 +72,9 @@ function getData(){
     "pekerjaan": "1"
   },
   {
-    "Nama": "tatik",
+    "Nama": "Toto",
     "Kota": "3",
-    "jenis_kelamin": "2",
+    "jenis_kelamin": "1",
     "pendidikan": "4",
     "pekerjaan": "3"
   },
@@ -102,9 +102,9 @@ function getData(){
   {
     "Nama": "abel riswandi",
     "Kota": "1",
-    "jenis_kelamin": "2",
+    "jenis_kelamin": "1",
     "pendidikan": "4",
-    "pekerjaan": "1"
+    "pekerjaan": "4"
   },
   {
     "Nama": "Sunayah",
@@ -121,9 +121,9 @@ function getData(){
     "pekerjaan": "5"
   },
   {
-    "Nama": "entin suartini",
+    "Nama": "Suwarso",
     "Kota": "2",
-    "jenis_kelamin": "2",
+    "jenis_kelamin": "1",
     "pendidikan": "4",
     "pekerjaan": "2"
   },
@@ -156,9 +156,9 @@ function getData(){
     "pekerjaan": "4"
   },
   {
-    "Nama": "Debby",
+    "Nama": "Deddy",
     "Kota": "3",
-    "jenis_kelamin": "2",
+    "jenis_kelamin": "1",
     "pendidikan": "7",
     "pekerjaan": "6"
   },
@@ -222,14 +222,14 @@ function getData(){
     "Nama": "maria",
     "Kota": "1",
     "jenis_kelamin": "2",
-    "pendidikan": "4",
+    "pendidikan": "5",
     "pekerjaan": "6"
   },
   {
     "Nama": "umi",
     "Kota": "3",
     "jenis_kelamin": "2",
-    "pendidikan": "4",
+    "pendidikan": "5",
     "pekerjaan": "1"
   },
   {
@@ -243,7 +243,7 @@ function getData(){
     "Nama": "ika Purwanti",
     "Kota": "3",
     "jenis_kelamin": "2",
-    "pendidikan": "4",
+    "pendidikan": "6",
     "pekerjaan": "1"
   }
  ];
