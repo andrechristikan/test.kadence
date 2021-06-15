@@ -1,6 +1,4 @@
-function getData(){
-  var json = 
-  [
+export default [
   {
     "Nama": "Riana Utami",
     "Kota": "1",
@@ -246,7 +244,4 @@ function getData(){
     "pendidikan": "6",
     "pekerjaan": "1"
   }
- ];
-
- return json;
-}
+];
