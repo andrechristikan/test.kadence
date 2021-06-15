@@ -5,12 +5,12 @@ This is simple data mapping from data. This project build with Restful API and u
 
 Detail for [assignment](assignment.docx)
 ```
-    There is 4 points that must solve
+There is 4 points that must solve
 
-    1. Filter data as Gender
-    2. Filter data as Worker and Gender
-    3. Descending sort data by City
-    4. Show Name from data that have education more than Senior High School
+1. Filter data as Gender
+2. Filter data as Worker and Gender
+3. Descending sort data by City
+4. Show Name from data that have education more than Senior High School
 ```
 
 
